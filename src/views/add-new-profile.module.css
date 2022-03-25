@@ -1,0 +1,532 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.AddNewProfilepageAddNewProfile641131 {
+  width: 390px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 390px;
+  align-self: center;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: flex-start;
+  background-color: rgba(252, 208, 50, 1);
+}
+.image {
+  top: -17px;
+  left: 0px;
+  width: 390px;
+  height: 844px;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+  border-color: transparent;
+}
+.navlink {
+  top: 629px;
+  left: 457px;
+  color: #fbfbfb;
+  width: 285px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  background-color: #ff0808;
+}
+.text {
+  color: #ffffff;
+  text-align: center;
+}
+.text02 {
+  text-align: center;
+}
+.Property1Default178351 {
+  top: 745px;
+  left: -7px;
+  width: 409px;
+  height: 111px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.image1 {
+  top: 31px;
+  left: 0px;
+  width: 409px;
+  height: 80px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 30px;
+  background-color: rgba(255, 55, 55, 1);
+}
+.healthiconsuiuserprofile641135 {
+  top: 39px;
+  left: 340px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.navlink1 {
+  display: contents;
+}
+.image2 {
+  top: 4.1666669845581055px;
+  left: 4.1666669845581055px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.heroiconssolidhome641145 {
+  top: 42px;
+  left: 22px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.navlink2 {
+  display: contents;
+}
+.image3 {
+  top: 4.400469779968262px;
+  left: 4.4271240234375px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink3 {
+  display: contents;
+}
+.image4 {
+  top: 43px;
+  left: 279px;
+  width: 36px;
+  height: 40px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink4 {
+  display: contents;
+}
+.image5 {
+  top: 42px;
+  left: 102px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.svg {
+  left: 160px;
+  width: 90;
+  height: 92;
+  position: absolute;
+}
+.container1 {
+  top: 15px;
+  left: 163px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.navlink5 {
+  display: contents;
+}
+.svg01 {
+  top: 0px;
+  left: 0px;
+  width: 80;
+  height: 80;
+  position: absolute;
+  text-decoration: none;
+}
+.navlink6 {
+  display: contents;
+}
+.icon {
+  top: 17px;
+  left: 22px;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+  position: absolute;
+  text-decoration: none;
+}
+.icon1 {
+  fill: #fffefe;
+}
+.svg02 {
+  top: 46px;
+  left: 176px;
+  width: 57;
+  height: 1px;
+  position: absolute;
+}
+.svg03 {
+  top: 72.015380859375px;
+  left: 205px;
+  width: 57;
+  height: 0;
+  position: absolute;
+}
+.svg04 {
+  top: 74px;
+  left: 142px;
+  width: 116;
+  height: 105;
+  position: absolute;
+  align-self: center;
+}
+.openmojioldmanmediumskintonecomponentinputimage641 {
+  top: 65px;
+  left: 145px;
+  width: 109px;
+  height: 112px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-self: center;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.svg05 {
+  top: 74.49555969238281px;
+  left: 25.887500762939453px;
+  width: 58;
+  height: 20;
+  position: absolute;
+  align-self: center;
+}
+.svg06 {
+  top: 28.788846969604492px;
+  left: 32.92296600341797px;
+  width: 13;
+  height: 27;
+  position: absolute;
+}
+.svg07 {
+  top: 28.7841796875px;
+  left: 63.44405746459961px;
+  width: 13;
+  height: 27;
+  position: absolute;
+}
+.image6 {
+  top: 24.827468872070312px;
+  left: 37.11298751831055px;
+  width: 35px;
+  height: 47px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image7 {
+  top: 26.354415893554688px;
+  left: 25.887500762939453px;
+  width: 58px;
+  height: 67px;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+  border-color: transparent;
+}
+.Arrow641168 {
+  top: 55px;
+  left: 25px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.navlink7 {
+  display: contents;
+}
+.image8 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.text03 {
+  top: 160px;
+  left: 18px;
+  color: rgba(86, 76, 76, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: center;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text04 {
+  color: rgba(86, 76, 76, 1);
+  width: 132px;
+  height: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 900;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.svg08 {
+  top: 185px;
+  width: 394;
+  height: 1px;
+  position: absolute;
+  align-self: center;
+}
+.text05 {
+  top: 372px;
+  left: 14px;
+  color: rgba(86, 77, 77, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text06 {
+  color: rgba(86, 77, 77, 1);
+  width: 200px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 900;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.svg09 {
+  top: 365px;
+  left: -4px;
+  width: 394;
+  height: 1px;
+  position: absolute;
+}
+.button {
+  top: 633px;
+  left: 535px;
+  color: #fbfbfb;
+  width: 271px;
+  height: 46px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  text-align: center;
+  flex-direction: row;
+  background-color: #ff0808;
+}
+.text07 {
+  top: 14px;
+  left: 0px;
+  color: #ffffff;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  text-align: center;
+}
+.text08 {
+  text-align: center;
+}
+.navlink8 {
+  top: 701px;
+  left: 537px;
+  color: #fbfbfb;
+  width: 267px;
+  height: 39px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  background-color: #ff0808;
+}
+.text09 {
+  color: #ffffff;
+  text-align: center;
+}
+.text11 {
+  text-align: center;
+}
+.button1 {
+  top: 571px;
+  left: 537px;
+  color: #fbfbfb;
+  width: 271px;
+  height: 44px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  background-color: #ff0808;
+}
+.text12 {
+  top: 12px;
+  left: 65px;
+  color: #ffffff;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+}
+.textinput {
+  top: 240px;
+  left: 489px;
+  width: 164px;
+  height: 34px;
+  position: absolute;
+  align-self: center;
+}
+.Enter-Full-Name {
+  top: 197px;
+  left: 488px;
+  width: 166px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+}
+.textinput1 {
+  top: 198px;
+  left: 692px;
+  width: 159px;
+  position: absolute;
+  align-self: center;
+}
+.textinput2 {
+  top: 240px;
+  left: 693px;
+  width: 159px;
+  position: absolute;
+  align-self: center;
+}
+.textinput3 {
+  top: 283px;
+  left: 488px;
+  width: 165px;
+  position: absolute;
+  align-self: center;
+}
+.textinput4 {
+  top: 282px;
+  left: 693px;
+  width: 160px;
+  position: absolute;
+  align-self: center;
+}
+.textinput5 {
+  top: 325px;
+  left: 488px;
+  width: 164px;
+  position: absolute;
+  align-self: center;
+}
+.textinput6 {
+  top: 475px;
+  left: 500px;
+  width: 292px;
+  position: absolute;
+}
+.textinput7 {
+  top: 392px;
+  left: 501px;
+  width: 291px;
+  position: absolute;
+}
+.textinput8 {
+  top: 432px;
+  left: 501px;
+  width: 290px;
+  position: absolute;
+}
+.icon2 {
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 767px) {
+  .Enter-Full-Name {
+    top: 221px;
+    left: 217px;
+  }
+  .textinput1 {
+    top: 223px;
+    left: 379px;
+  }
+}
+@media(max-width: 479px) {
+  .textinput {
+    top: 271px;
+    left: 64px;
+  }
+  .Enter-Full-Name {
+    top: 215px;
+    left: 58px;
+    height: 48px;
+    margin: auto;
+  }
+  .textinput1 {
+    top: 325px;
+    right: 31px;
+    width: 125px;
+    height: 38px;
+    margin: auto;
+  }
+  .textinput3 {
+    top: 313px;
+    left: 72px;
+  }
+}

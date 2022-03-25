@@ -1,0 +1,523 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  border-color: #f9f4f4;
+  border-width: 1px;
+  flex-direction: column;
+}
+.HomepagepageHomepage544 {
+  width: 390px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 390px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: flex-start;
+  background-color: rgba(252, 208, 50, 1);
+}
+.Backgroundcomponentsvg17810 {
+  top: -192px;
+  left: -229px;
+  width: 834px;
+  height: 1009px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: center;
+}
+.svg {
+  width: 834;
+  height: 362;
+  position: absolute;
+}
+.image {
+  top: 287px;
+  left: 224px;
+  width: 395px;
+  height: 722px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 35px;
+  background-color: rgba(255, 245, 209, 1);
+}
+.Input {
+  top: 126px;
+  left: 0px;
+  right: 0px;
+  width: 341px;
+  margin: auto;
+  position: absolute;
+  border-style: solid;
+}
+.container1 {
+  flex: 0 0 auto;
+  width: 409px;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.Property1Activehome178131 {
+  top: 769px;
+  left: -10px;
+  width: 409px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.image01 {
+  top: 0px;
+  left: 0px;
+  width: 409px;
+  height: 80px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 30px;
+  background-color: rgba(255, 55, 55, 1);
+}
+.svg1 {
+  top: -17px;
+  left: 165px;
+  width: 90;
+  height: 92;
+  position: absolute;
+}
+.navlink {
+  display: contents;
+}
+.svg2 {
+  top: -14px;
+  left: 169px;
+  width: 80;
+  height: 80;
+  position: absolute;
+  text-decoration: none;
+}
+.icon {
+  top: 777px;
+  left: 586px;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+  position: absolute;
+}
+.icon02 {
+  top: 777px;
+  left: 586px;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+  position: absolute;
+}
+.navlink01 {
+  display: contents;
+}
+.icon04 {
+  left: 192px;
+  width: 40px;
+  bottom: 32px;
+  height: 40px;
+  margin: auto;
+  position: absolute;
+  text-decoration: none;
+}
+.icon05 {
+  fill: #fffefe;
+}
+.icon06 {
+  top: 777px;
+  left: 586px;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+  position: absolute;
+}
+.svg3 {
+  top: 11px;
+  left: 19px;
+  width: 50;
+  height: 50;
+  position: absolute;
+}
+.healthiconsuiuserprofileasseticon178138 {
+  top: 8px;
+  left: 340px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.navlink02 {
+  display: contents;
+}
+.image02 {
+  top: 4.1666669845581055px;
+  left: 4.1666669845581055px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink03 {
+  display: contents;
+}
+.image03 {
+  top: 11px;
+  left: 260px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.heroiconssolidhomeasseticon178148 {
+  top: 11px;
+  left: 22px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.image04 {
+  top: 4.400469779968262px;
+  left: 4.4271240234375px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.navlink04 {
+  display: contents;
+}
+.image05 {
+  top: 11px;
+  left: 102px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.text {
+  top: 303px;
+  left: 72px;
+  margin: auto;
+  position: absolute;
+}
+.text1 {
+  top: 303px;
+  left: 273px;
+  margin: auto;
+  position: absolute;
+}
+.text2 {
+  top: 657px;
+  left: 72px;
+  margin: auto;
+  position: absolute;
+}
+.text3 {
+  top: 657px;
+  left: 273px;
+  margin: auto;
+  position: absolute;
+}
+.text4 {
+  top: 473px;
+  left: 72px;
+  margin: auto;
+  position: absolute;
+}
+.text5 {
+  top: 473px;
+  left: 268px;
+  margin: auto;
+  position: absolute;
+}
+.navlink05 {
+  display: contents;
+}
+.icon08 {
+  top: 129px;
+  left: 30px;
+  width: 24px;
+  height: 24px;
+  margin: auto;
+  position: absolute;
+  text-decoration: none;
+}
+.image06 {
+  width: 100px;
+  object-fit: cover;
+}
+.image07 {
+  width: 100px;
+  object-fit: cover;
+}
+.image08 {
+  width: 100px;
+  object-fit: cover;
+}
+.image09 {
+  top: 332px;
+  left: 0px;
+  right: 0px;
+  width: 390px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+}
+.navlink06 {
+  display: contents;
+}
+.image10 {
+  top: 187px;
+  left: 723px;
+  width: 100px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.navlink07 {
+  display: contents;
+}
+.image11 {
+  top: 195px;
+  left: 513px;
+  width: 100px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.image12 {
+  top: 494px;
+  left: 0px;
+  right: 0px;
+  width: 390px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+}
+.image13 {
+  top: 105px;
+  left: 0px;
+  right: 0px;
+  width: 20px;
+  height: 645px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+}
+.image14 {
+  top: 687px;
+  left: 0px;
+  right: 0px;
+  width: 390px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+}
+.navlink08 {
+  display: contents;
+}
+.image15 {
+  top: 548px;
+  left: 729px;
+  width: 100px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.navlink09 {
+  display: contents;
+}
+.image16 {
+  top: 364px;
+  left: 511px;
+  width: 100px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.navlink10 {
+  display: contents;
+}
+.image17 {
+  top: 537px;
+  left: 508px;
+  width: 100px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.navlink11 {
+  display: contents;
+}
+.image18 {
+  top: 361px;
+  left: 727px;
+  width: 100px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.navlink12 {
+  display: contents;
+}
+.image19 {
+  top: 29px;
+  left: 818px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .image10 {
+    top: 180px;
+    left: 553px;
+  }
+  .image11 {
+    top: 180px;
+    left: 358px;
+  }
+  .image15 {
+    top: 531px;
+    left: 549px;
+  }
+  .image16 {
+    top: 357px;
+    left: 360px;
+  }
+  .image17 {
+    top: 536px;
+    left: 351px;
+  }
+  .image18 {
+    top: 362px;
+    left: 549px;
+  }
+}
+@media(max-width: 479px) {
+  .text {
+    left: 69px;
+    bottom: 528px;
+    margin: auto;
+    position: absolute;
+  }
+  .text1 {
+    right: 76px;
+    bottom: 515px;
+    margin: auto;
+    position: absolute;
+  }
+  .text2 {
+    top: 656px;
+    left: 73px;
+    margin: auto;
+    position: absolute;
+  }
+  .text3 {
+    right: 72px;
+    bottom: 169px;
+    margin: auto;
+    position: absolute;
+  }
+  .text4 {
+    left: 65px;
+    bottom: 353px;
+    margin: auto;
+    position: absolute;
+  }
+  .text5 {
+    left: 266px;
+    bottom: 354px;
+    margin: auto;
+    position: absolute;
+  }
+  .icon08 {
+    top: 132px;
+    left: 30px;
+    margin: auto;
+    opacity: 0.2;
+    position: absolute;
+  }
+  .image10 {
+    top: 541px;
+    left: 292px;
+    margin: auto;
+    position: absolute;
+  }
+  .image11 {
+    top: 363px;
+    left: 82px;
+    margin: auto;
+    position: absolute;
+    padding-top: var(--dl-space-space-halfunit);
+  }
+  .image15 {
+    top: 552px;
+    left: 85px;
+    margin: auto;
+    position: absolute;
+  }
+  .image16 {
+    top: 368px;
+    left: 286px;
+    margin: auto;
+    position: absolute;
+  }
+  .image17 {
+    top: 198px;
+    left: 289px;
+    margin: auto;
+    position: absolute;
+  }
+  .image18 {
+    top: 189px;
+    left: 82px;
+    margin: auto;
+    position: absolute;
+  }
+}

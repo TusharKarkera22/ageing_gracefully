@@ -1,0 +1,364 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.navlink {
+  display: contents;
+}
+.svg {
+  top: -14px;
+  left: 169px;
+  width: 80;
+  height: 80;
+  position: absolute;
+  text-decoration: none;
+}
+.MedicalrecordspageMedicalrecords57151 {
+  width: 390px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 390px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 245, 209, 1);
+}
+.Group2557270 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 844px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 170px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text {
+  top: 61px;
+  left: 52px;
+  color: rgba(0, 0, 0, 1);
+  width: 279px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text1 {
+  color: rgba(0, 0, 0, 1);
+  width: 279px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.image01 {
+  top: 787px;
+  left: 0px;
+  width: 390px;
+  height: 57px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 55, 55, 0.800000011920929);
+}
+.Group2957351 {
+  top: 795px;
+  left: 14px;
+  width: 352px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image02 {
+  top: 2px;
+  left: 250px;
+  width: 31px;
+  height: 32px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.healthiconsuiuserprofile57344 {
+  top: 0px;
+  left: 315px;
+  width: 37px;
+  height: 34px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.image03 {
+  top: 2.833333730697632px;
+  left: 3.083333730697632px;
+  width: 31px;
+  height: 28px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image04 {
+  top: 3px;
+  left: 78px;
+  width: 33px;
+  height: 31px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.heroiconssolidhome57335 {
+  top: 1px;
+  left: 0px;
+  width: 41px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.image05 {
+  top: 3.0003204345703125px;
+  left: 4.125274658203125px;
+  width: 33px;
+  height: 24px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.navlink1 {
+  display: contents;
+}
+.svg1 {
+  top: 53px;
+  left: 19px;
+  width: 7;
+  height: 14;
+  position: absolute;
+  text-decoration: none;
+}
+.Taskbar6624 {
+  top: 787px;
+  left: -7px;
+  width: 409px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 55, 55, 1);
+}
+.healthiconsuiuserprofile59598 {
+  top: 1px;
+  left: 340px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.navlink2 {
+  display: contents;
+}
+.image06 {
+  top: 4.1666669845581055px;
+  left: 4.1666669845581055px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink3 {
+  display: contents;
+}
+.image07 {
+  top: 4px;
+  left: 230px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.heroiconssolidhome59608 {
+  top: 4px;
+  left: 22px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.navlink4 {
+  display: contents;
+}
+.image08 {
+  top: 4.400469779968262px;
+  left: 4.4271240234375px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink5 {
+  display: contents;
+}
+.image09 {
+  top: 4px;
+  left: 126px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.svg2 {
+  top: 189px;
+  left: 22px;
+  width: 36;
+  height: 39;
+  position: absolute;
+}
+.Medicslprofile182205 {
+  top: 187px;
+  left: 15px;
+  width: 348px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(250, 166, 166, 1);
+}
+.text2 {
+  top: 9px;
+  left: 66px;
+  color: rgba(0, 0, 0, 1);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Prata;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text3 {
+  color: rgba(0, 0, 0, 1);
+  width: 201px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.image10 {
+  top: 9px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image11 {
+  top: 246px;
+  left: 22px;
+  width: 276px;
+  height: 132px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image12 {
+  top: 378px;
+  left: 111px;
+  width: 264px;
+  height: 120px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image13 {
+  top: 510px;
+  left: 26px;
+  width: 264px;
+  height: 120px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image14 {
+  top: 649px;
+  left: 111px;
+  width: 264px;
+  height: 120px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image15 {
+  top: 126px;
+  left: -4px;
+  width: 390px;
+  height: 49px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}

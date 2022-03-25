@@ -1,0 +1,189 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.apptdetailspageapptdetails150205 {
+  width: 390px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 390px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-image: url("https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/b446973a-1495-46a9-ac33-f7c7417f9107/04fb8c63-eaa8-40a7-a4e9-cddcf28be4e3?org_if_sml=1100177");
+}
+.Taskbar150206 {
+  top: 780px;
+  left: 0px;
+  width: 390px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 64px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 55, 55, 1);
+}
+.navlink {
+  display: contents;
+}
+.image1 {
+  top: 11px;
+  left: 307px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink1 {
+  display: contents;
+}
+.image2 {
+  top: 11px;
+  left: 219px;
+  width: 36px;
+  height: 40px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink2 {
+  display: contents;
+}
+.image3 {
+  top: 13px;
+  left: 43px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink3 {
+  display: contents;
+}
+.image4 {
+  top: 13px;
+  left: 130px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink4 {
+  display: contents;
+}
+.image5 {
+  top: 34px;
+  left: 354px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.navlink5 {
+  display: contents;
+}
+.svg {
+  top: 38px;
+  left: 13px;
+  width: 7;
+  height: 14;
+  position: absolute;
+  text-decoration: none;
+}
+.image6 {
+  top: 71px;
+  left: 23px;
+  width: 318px;
+  height: 466px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.Book-Appointment {
+  left: 0px;
+  right: 0px;
+  width: 254px;
+  bottom: 136px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  padding-right: 4px;
+  flex-direction: row;
+  text-decoration: none;
+  background-color: #f91b1b;
+}
+.text {
+  font-size: 20px;
+}
+.textinput {
+  top: 259px;
+  left: 0px;
+  right: 0px;
+  width: 340px;
+  margin: auto;
+  position: absolute;
+}
+.textinput1 {
+  top: 358px;
+  left: 0px;
+  right: 0px;
+  width: 338px;
+  margin: auto;
+  position: absolute;
+}
+.textinput2 {
+  top: 464px;
+  left: 0px;
+  right: 0px;
+  width: 332px;
+  margin: auto;
+  position: absolute;
+}
+.textinput3 {
+  top: 566px;
+  left: 0px;
+  right: 0px;
+  width: 336px;
+  margin: auto;
+  position: absolute;
+}
+@media(max-width: 479px) {
+  .Book-Appointment {
+    width: 247px;
+    height: 52px;
+  }
+  .text {
+    left: 28px;
+    bottom: -9px;
+    margin: auto;
+    position: absolute;
+    align-self: flex-end;
+  }
+}

@@ -1,0 +1,28 @@
+.Nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navlink {
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+@media(max-width: 767px) {
+  .Nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navlink {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}

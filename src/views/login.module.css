@@ -1,0 +1,209 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.LoginSignuppagelogin3052 {
+  width: 390px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 390px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(252, 208, 50, 1);
+}
+.image {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 844px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.LoginButtonbutton2152704 {
+  top: 188px;
+  left: 66px;
+  width: 134px;
+  display: flex;
+  padding: 10px 16px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 55, 55, 1);
+}
+.text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text1 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 900;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.LoginButtonbutton2152706 {
+  top: 188px;
+  left: 193px;
+  width: 129px;
+  display: flex;
+  padding: 10px 16px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.text2 {
+  color: rgba(255, 55, 55, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text3 {
+  color: rgba(255, 55, 55, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 900;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.LoginButtonbutton2152700 {
+  top: 493px;
+  left: 137px;
+  width: 112px;
+  display: flex;
+  padding: 10px 16px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(255, 55, 55, 1);
+}
+.text4 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text5 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 900;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text6 {
+  top: 385px;
+  color: rgba(153, 144, 144, 1);
+  right: -97px;
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text7 {
+  color: rgba(153, 144, 144, 1);
+  width: 269px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 900;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.textinput {
+  left: 0px;
+  right: 0px;
+  width: 209px;
+  height: 45px;
+  margin: auto;
+}
+.Input {
+  top: 267px;
+  left: 0px;
+  right: 0px;
+  width: 214px;
+  height: 45px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+}
+@media(max-width: 479px) {
+  .textinput {
+    left: 0px;
+    right: 0px;
+    width: 211px;
+    height: 42px;
+    margin: auto;
+    text-align: center;
+  }
+  .Input {
+    left: 0px;
+    right: 0px;
+    width: 209px;
+    height: 35px;
+    margin: auto;
+    text-align: center;
+  }
+}

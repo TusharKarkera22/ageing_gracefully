@@ -1,0 +1,119 @@
+.NavbarContainer {
+  top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.text {
+  color: #e02d2d;
+  font-size: 22px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.Nav {
+  display: flex;
+}
+.BurgerMenu {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+.Nav1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.Container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.image {
+  width: 106px;
+}
+.MenuClose {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.PrimaryBtn {
+  margin-top: var(--dl-space-space-oneandhalfunits);
+}
+.SocialMedia {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.text1 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.container1 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.icon02 {
+  width: 24px;
+  height: 24px;
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-twounits);
+}
+.icon02:hover {
+  fill: var(--dl-color-backgrounds-primary);
+  cursor: pointer;
+}
+.icon06 {
+  width: 24px;
+  height: 24px;
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-twounits);
+}
+.icon06:hover {
+  fill: var(--dl-color-backgrounds-primary);
+  cursor: pointer;
+}
+.icon10 {
+  width: 24px;
+  height: 24px;
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-twounits);
+}
+.icon10:hover {
+  fill: var(--dl-color-backgrounds-primary);
+  cursor: pointer;
+}
+.icon12 {
+  width: 24px;
+  height: 24px;
+  transition: 0.3s;
+}
+.icon12:hover {
+  fill: var(--dl-color-backgrounds-primary);
+  cursor: pointer;
+}
+.rootClassName {
+  background-color: #f3e164;
+}
+@media(max-width: 767px) {
+  .Nav {
+    display: none;
+  }
+}
+@media(max-width: 479px) {
+  .text {
+    color: #d43608;
+    font-size: 22px;
+  }
+}
